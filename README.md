@@ -4,7 +4,7 @@ Welcome to my GitHub page! Here, I'll highlight some example code to demonstrate
 
 I tend to use a combination of languages/tools to analyze and plot massive amounts of data with reasonable runtime. Take a look at my "Bulk/snRNA-seq Manhattan Plot" repository to see how I used a combination of Bash and R to plot >100GB worth of quantitative trait loci (QTL) data all in one plot, shown below:
 
-<img width="1386" height="316" alt="ROSMAP Interaction QTL Manhattan Plot (redacted)" src="https://github.com/user-attachments/assets/623bd2b0-e8bb-40b5-ada4-bcb7220f24b5" />
+<img width="1373" height="315" alt="ROSMAP Interaction QTL Manhattan Plot (redacted)" src="https://github.com/user-attachments/assets/192b9069-a6c0-45c1-927c-897f02c0c7a4" />
 
 (Gene names were replaced with Transformer names to protect my forthcoming publication.)
 
