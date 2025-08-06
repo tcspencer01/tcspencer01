@@ -6,7 +6,7 @@ I tend to use a combination of languages/tools to analyze and plot massive amoun
 
 <img width="1373" height="315" alt="ROSMAP Interaction QTL Manhattan Plot (redacted)" src="https://github.com/user-attachments/assets/192b9069-a6c0-45c1-927c-897f02c0c7a4" />
 
-(Gene names were replaced with Transformer names to protect my forthcoming publication.)
+**(Gene names were replaced with Transformer names to protect my forthcoming publication.)**
 
 In bioinformatics, it's also important to understand toolkits like BEDtools, which have lightning-fast runtimes that save you hours of wait. To see how I used a combination of Bash, BEDtools, and R to plot ADD IN, look at the repository "ADD IN." That's how I made this plot:
 
