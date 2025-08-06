@@ -12,7 +12,7 @@ I tend to use a combination of languages/tools to analyze and plot massive amoun
 
 ### Example 2
 
-For the edQTLs in the above analysis, it was important to regress out the effects of expression to make sure we were picking up true RNA editing signals. This involved identifying which gene housed each Alu element (regions of the genome we used to quantify RNA editing), then running regression in parallel across Alus and samples to greatly speed up runtime. For more info, check out [this repository.](https://github.com/tcspencer01/regress-expression-per-region/tree/main)
+For the edQTLs in the above analysis, it was important to regress out the effects of expression to make sure we were picking up true RNA editing signals. This involved identifying which gene housed each Alu element (regions of the genome we used to quantify RNA editing), then running regression in parallel across Alus and samples to greatly speed up runtime. For more info, check out [this repository](https://github.com/tcspencer01/regress-expression-per-region/tree/main).
 
 ### Example 3
 
