@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Welcome to my GitHub page! Here, I'll highlight some example code to demonstrate my abilities with R, Python, Bash, and common bioinformatics tools. Please note that input files are not provided at this time because this work is in preparation for publication, and some sensitive information (specific genes, tissues, and cell types identified by the analysis) has been photoshopped out of the provided example plots.
+Welcome to my GitHub profile! Here, I'll highlight some example code to demonstrate my abilities with R, Python, Bash, and common bioinformatics tools. Please note that input files are not provided at this time because this work is in preparation for publication, and some sensitive information (specific genes, tissues, and cell types identified by the analysis) has been photoshopped out of the provided example plots.
 
 I tend to use a combination of languages/tools to analyze and plot massive amounts of data with reasonable runtime. Take a look at my "Bulk/snRNA-seq Manhattan Plot" repository to see how I used a combination of Bash and R to plot >100GB worth of quantitative trait loci (QTL) data all in one plot, shown below:
 
