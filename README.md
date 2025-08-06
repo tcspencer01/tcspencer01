@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hello there! 👋
+
+Welcome to my GitHub page! Here, I'll highlight some example code to demonstrate my abilities with R, Python, Bash, and common bioinformatics tools. I tend to use a combination of all these languages/tools to analyze and plot massive amounts of data with reasonable runtime. Take a look at my "Bulk/snRNA-seq Manhattan Plot" repository to see how I used a combination of Bash and R to plot >100GB worth of quantitative trait loci (QTL) data all in one plot, shown below:
+
+ADD IN PLOT
+
+(Gene names were replaced with Transformer names to protect my forthcoming publication.)
+
+In bioinformatics, it's also important to understand toolkits like BEDtools, which have lightning-fast runtimes that save you hours of wait. To see how I used a combination of Bash, BEDtools, and R to plot ADD IN, look at the repository "ADD IN." That's how I made this plot:
+
+(Tissue / cell type names replaced with Starfleet ships to protect my forthcoming publication.)
+
+And finally, Python! Those defaultdicts are a phenomenal way to speed up complex analyses. Take a look at "ADD IN" to see how I quantified RNA editing of Alu regions in hundreds of BAM files using Python and samtools.
+
+I've also included some of my prettiest-looking plots below as further samples of my work:
+
+Thanks for reading!
 
 <!--
 **tcspencer01/tcspencer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
