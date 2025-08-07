@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, Bash, and common bioinformatics tools. Please note that input files are not provided at this time because this work is in preparation for publication, and some sensitive information (specific genes, tissues, and cell types identified by the analysis) has been photoshopped out of the provided example plots.
+Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, Bash, and common bioinformatics tools. Please note that input files are not provided at this time because this work is in preparation for publication, and some sensitive information has been photoshopped out of the provided example plots.
 
 ### Example 1
 
