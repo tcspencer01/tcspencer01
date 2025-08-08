@@ -18,9 +18,6 @@ For the edQTLs in the above analysis, it was important to regress out the effect
 
 And finally, Python! Those defaultdicts are a phenomenal way to speed up complex analyses. Take a look at [this repository](https://github.com/tcspencer01/REDIportal-Index-Based-Editing) to see how I quantified RNA editing of Alu regions in hundreds of BAM files using Python and samtools.
 
-I've also included some of my prettiest-looking plots below as further samples of my work:
-**ADD IN**
-
 Thanks for reading!
 
 <!--
