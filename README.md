@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, Bash, and common bioinformatics tools. Please note that input files are not provided at this time because this work is in preparation for publication.
+Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, and Bash for bioinformatic analyses. Please note that input files are not provided at this time because this work is in preparation for publication.
 
 ### Example 1
 
@@ -10,7 +10,7 @@ For an edQTL analysis performed during my M.S. studies, it was important to regr
 
 Take a look at [this repository](https://github.com/tcspencer01/REDIportal-Index-Based-Editing) to see how I quantified RNA editing of Alu regions in hundreds of BAM files using Python and samtools.
 
-Thanks for reading!
+Thanks for stopping by!
 
 <!--
 **tcspencer01/tcspencer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
