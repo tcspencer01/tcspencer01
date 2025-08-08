@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, and Bash for bioinformatic analyses. Please note that input files are not provided at this time because this work is in preparation for publication.
+Welcome to my GitHub profile! **I've included some example code here to demonstrate my abilities** with R, Python, and Bash for bioinformatic analyses. Please note that input files are not provided at this time because this work is in preparation for publication. **It is recommended you read the examples in the order given due to the background information provided in Example 1.**
 
 ### Example 1
 
