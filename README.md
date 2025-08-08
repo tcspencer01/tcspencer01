@@ -4,11 +4,11 @@ Welcome to my GitHub profile! **I've included some example code here to demonstr
 
 ### Example 1
 
-For an edQTL analysis performed during my M.S. studies, it was important to regress out the effects of expression to make sure we were picking up true RNA editing signals. This involved identifying which gene housed each RNA editing target, then running regression in parallel across editing targets and samples to greatly speed up runtime. For more info, check out [this repository](https://github.com/tcspencer01/regress-expression-per-region/tree/main).
+Take a look at [this repository](https://github.com/tcspencer01/REDIportal-Index-Based-Editing) to see how I quantified RNA editing of Alu regions in hundreds of BAM files using Python and samtools.
 
 ### Example 2
 
-Take a look at [this repository](https://github.com/tcspencer01/REDIportal-Index-Based-Editing) to see how I quantified RNA editing of Alu regions in hundreds of BAM files using Python and samtools.
+For an edQTL analysis performed during my M.S. studies, it was important to regress out the effects of expression to make sure we were picking up true RNA editing signals. This involved identifying which gene housed each RNA editing target, then running regression in parallel across editing targets and samples to greatly speed up runtime. For more info, check out [this repository](https://github.com/tcspencer01/regress-expression-per-region/tree/main).
 
 Thanks for stopping by!
 
